@@ -1,9 +1,9 @@
 ### Hi, I'm Radimelfi future Economist 👋
 
 
-- 🔭 I’m currently working on Viva Whydham Resort 
-- 🌱 I’m currently learning Python pro Bootcamp, Power APPS
-- 🤔 I’m looking for help with Data sciencie 
+- 🔭 I’m currently working at Viva Whydham Resort 
+- 🌱 I’m currently learning Python and Power Apps
+- 🤔 I’m looking to grow as a Data scientist 
 - 💬 Ask me about python, R studios
 - 📫 How to reach me: radimelfibautistaantigua@gmail.com
 
