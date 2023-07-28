@@ -1,7 +1,7 @@
 ### Hi, I'm Radimelfi future Economist 👋
 
 
-- 🔭 I’m currently working at Viva Whydham Resort 
+- 🔭 I’m currently working at Viva Whydham Resorts 
 - 🌱 I’m currently learning Python and Power Apps
 - 🤔 I’m looking to grow as a Data scientist 
 - 💬 Ask me about python, R studios
